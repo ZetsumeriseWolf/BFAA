@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Submission1</string>
+    <string name="user">User</string>
+    <string name="name">Nama</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="repository">Repository</string>
+    <string name="username">username</string>
+    <string name="following_data">%s</string>
+    <string name="follower_data">%s</string>
+    <string name="repository_data">%s</string>
+
+    <string-array name="data_name">
+        <item>Jane Scott</item>
+        <item>Melissa Lie</item>
+        <item>Aaron Smurf</item>
+        <item>Michael Jun</item>
+        <item>Alicia Valerie</item>
+        <item>Dom Stark</item>
+        <item>Chris Cena</item>
+        <item>Steven Lie</item>
+        <item>Janet Franklin</item>
+        <item>Steve Bob</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>Scott_01</item>
+        <item>Melissa_02</item>
+        <item>Aaron_03</item>
+        <item>Michael_04</item>
+        <item>Stark_05</item>
+        <item>Alicia_06</item>
+        <item>Chris_07</item>
+        <item>Steven_08</item>
+        <item>Janet_09</item>
+        <item>Steve_10</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/user_1</item>
+        <item>@drawable/user_2</item>
+        <item>@drawable/user_3</item>
+        <item>@drawable/user_4</item>
+        <item>@drawable/user_5</item>
+        <item>@drawable/user_6</item>
+        <item>@drawable/user_7</item>
+        <item>@drawable/user_8</item>
+        <item>@drawable/user_9</item>
+        <item>@drawable/user_10</item>
+    </integer-array>
+
+    <string-array name="data_company">
+        <item>Google</item>
+        <item>Tokopedia</item>
+        <item>Meta</item>
+        <item>Tencent</item>
+        <item>Amazon</item>
+        <item>Microsoft</item>
+        <item>Amazon</item>
+        <item>Tesla</item>
+        <item>Tencent</item>
+        <item>Unity</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Bangkok, Thailand</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Singapore, Singapore</item>
+        <item>Kuala Lumpur, Malaysia</item>
+        <item>New Delhi, India</item>
+        <item>London, England</item>
+        <item>Bern, Swiss</item>
+        <item>Berlin, Germany</item>
+        <item>Sydney, Australia</item>
+        <item>SanFransisco, US</item>
+    </string-array>
+
+    <string-array name="data_follower">
+        <item>20</item>
+        <item>53</item>
+        <item>100</item>
+        <item>35</item>
+        <item>43</item>
+        <item>10</item>
+        <item>18</item>
+        <item>27</item>
+        <item>67</item>
+        <item>88</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>25</item>
+        <item>59</item>
+        <item>67</item>
+        <item>53</item>
+        <item>34</item>
+        <item>90</item>
+        <item>89</item>
+        <item>76</item>
+        <item>65</item>
+        <item>62</item>
+    </string-array>
+
+    <string-array name="data_repository">
+        <item>26</item>
+        <item>75</item>
+        <item>76</item>
+        <item>45</item>
+        <item>87</item>
+        <item>12</item>
+        <item>34</item>
+        <item>25</item>
+        <item>39</item>
+        <item>19</item>
+    </string-array>
+
+</resources>
