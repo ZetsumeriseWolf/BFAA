@@ -11,6 +11,8 @@
     <string name="following_data">%s</string>
     <string name="follower_data">%s</string>
     <string name="repository_data">%s</string>
+    <string name="githubUser">Github User\'s</string>
+    <string name="imageViewUser">User Image</string>
 
     <string-array name="data_name">
         <item>Jane Scott</item>

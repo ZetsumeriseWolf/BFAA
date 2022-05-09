@@ -43,8 +43,6 @@ class MainActivity : AppCompatActivity() {
 
         list.addAll(listUsers)
         showRecyclerList()
-
-        supportActionBar?.title = "Github User's"
     }
 
     private val listUsers: ArrayList<User>
